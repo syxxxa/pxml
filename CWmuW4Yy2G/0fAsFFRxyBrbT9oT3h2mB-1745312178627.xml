@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <category-id>5702</category-id>
+    <category-name><![CDATA[Marškinėliai moterims]]></category-name>
+    <title><![CDATA[Pagrindiniai marškinėliai WB1052_XL]]></title>
+    <title-lv><![CDATA[Pamata T-krekls WB1052_XL]]></title-lv>
+    <title-ee><![CDATA[Põhiline T-särk WB1052_XL]]></title-ee>
+    <title-ru><![CDATA[Базовая футболка WB1052_XL]]></title-ru>
+    <title-fi><![CDATA[Perus T-paita WB1052_XL]]></title-fi>
+    <long-description><![CDATA[<p>Moteriški marškinėliai iš medvilnės, tankis 150 g/m.  <br />Kvėpuojantys, atspausdinti naudojant tiesioginės skaitmeninės spaudos (DTG) technologiją. <br />Modelis dėvi S dydžio drabužius<br />Modelio ūgis: 170 cm</p>]]></long-description>
+    <long-description-lv><![CDATA[<p>Sieviešu T-krekls no kokvilnas, blīvums 150 g/m.<br />Elpojošs, apdrukāts, izmantojot tiešās digitālās drukas (DTG) tehnoloģiju.<br />Modele valkā S izmēra apģērbu<br />Modeles augums: 170 cm</p>]]></long-description-lv>
+    <long-description-ee><![CDATA[<p>Naiste puuvillane T-särk, tihedus 150 g/m.<br />Hingav, trükitud otse digitaaltrüki (DTG) tehnoloogiat kasutades.<br />Modell kannab suurust S<br />Modelli pikkus: 170 cm</p>]]></long-description-ee>
+    <long-description-ru><![CDATA[<p>Женская футболка из хлопка, плотность 150 г/м.<br />Дышащая, напечатана с использованием технологии прямой цифровой печати (DTG).<br />На модели одежда размера S<br />Рост модели: 170 см</p>]]></long-description-ru>
+    <long-description-fi><![CDATA[<p>Naisten puuvillapaita, tiheys 150 g/m.<br />Hengittävä, painettu suoratulostustekniikalla (DTG).<br />Mallilla on yllään koko S<br />Mallin pituus: 170 cm</p>]]></long-description-fi>
+    <colours>
+      <colour>
+        <images>
+          <image>
+            <url>https://lt2.pigugroup.eu/colours/871/150/55/87115055/pagrindiniai-marskineliai-wb1052xl-f26d8_xbig.jpg</url>
+          </image>
+          <image>
+            <url>https://lt2.pigugroup.eu/colours/871/150/55/87115055/pagrindiniai-marskineliai-wb1052xl-5ef9c-kaina_xbig.jpg</url>
+          </image>
+          <image>
+            <url>https://lt2.pigugroup.eu/colours/871/150/55/87115055/pagrindiniai-marskineliai-wb1052xl-ec44f-internetu_xbig.jpg</url>
+          </image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.15</weight>
+            <length>0.3</length>
+            <height>0.05</height>
+            <width>0.15</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[7552144944953]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[7552144944953]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+</products>
